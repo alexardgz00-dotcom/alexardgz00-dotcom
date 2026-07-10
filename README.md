@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Alexandra! 👋
 
-<!--
-**alexardgz00-dotcom/alexardgz00-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven by a passion for the intersection of **AI, biology, and sustainability**, I am currently focusing on leveraging technology to solve complex environmental and biological challenges.
 
-Here are some ideas to get you started:
+### 🔬 What I'm Working On
+*   **PhD Aspirations:** Actively pursuing research opportunities at the intersection of environmental and biological systems (WyoPATH).
+*   **Skill Building:** Developing a foundational mastery of **R** for environmental, medical, and biological data analysis.
+*   **Project Focus:** Currently building tools to analyze biochemical features of bacterial proteins, utilizing Python and Google Colab for robust, reproducible research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+*   **Languages:** Python, R (in progress)
+*   **Tools:** Google Colab, UniProt (data extraction/analysis)
+
+### 💡 Interests
+*   Applying machine learning to biological datasets.
+*   Sustainable technology solutions.
+*   Developing reproducible data analysis workflows.
+
+---
+*Always excited to connect over data, biology, or sustainable tech solutions!*
